@@ -17,6 +17,12 @@ Allows serving local directories over HTTP, with real-time server status, file f
 
 ---
 
+## Screenshots
+
+![HTTPYSERV Main Window](media/httpyserv.png)
+
+---
+
 ## Requirements
 
 - Python 3.8+
